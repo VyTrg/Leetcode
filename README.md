@@ -6,14 +6,12 @@
 	Table of content
 </head>
 <body>
-<h3>
 <ol>
-	<ul><a href = "https://github.com/VyTrg/Leetcode/blob/main/1_Two_Sum.py" target = "_self">Two sum</a></ul>
-    <ul><a href = "https://github.com/VyTrg/Leetcode/blob/main/9_Palindrome_Number.py" target = "_self">Palindrome number</a></ul>
-    <ul><a href = "https://github.com/VyTrg/Leetcode/blob/main/125_Valid_Palindrome.py" target = "_self">Valid palidrome</a></ul>
-    <ul><a href = "https://github.com/VyTrg/Leetcode/blob/main/217_Contains_Duplicate.py" target = "_self">Contains duplicate</a></ul>
-    <ul><a href = "https://github.com/VyTrg/Leetcode/blob/main/242_Valid_Anagram.py" target = "_self">Valid Anagram</a></ul>
+	<li><a href = "https://github.com/VyTrg/Leetcode/blob/main/1_Two_Sum.py" target = "_self">Two sum</a></li>
+    <li><a href = "https://github.com/VyTrg/Leetcode/blob/main/9_Palindrome_Number.py" target = "_self">Palindrome number</a></li>
+    <li><a href = "https://github.com/VyTrg/Leetcode/blob/main/125_Valid_Palindrome.py" target = "_self">Valid palidrome</a></li>
+    <li><a href = "https://github.com/VyTrg/Leetcode/blob/main/217_Contains_Duplicate.py" target = "_self">Contains duplicate</a></li>
+    <li><a href = "https://github.com/VyTrg/Leetcode/blob/main/242_Valid_Anagram.py" target = "_self">Valid Anagram</a></li>
 </ol>
-</h3>
 </body>
 </html>

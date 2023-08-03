@@ -6,8 +6,10 @@
 	Table of content
 </head>
 <body>
+<h2>
 <ol>
 	<ul><a href = "https://github.com/VyTrg/Leetcode/blob/main/1_Two_Sum.py" target = "_self">Two sum</a></ul>
 </ol>
+</h2>
 </body>
 </html>

@@ -13,6 +13,7 @@
     <li><a href = "https://github.com/VyTrg/Leetcode/blob/main/217_Contains_Duplicate.py" target = "_self">Contains duplicate</a></li>
     <li><a href = "https://github.com/VyTrg/Leetcode/blob/main/242_Valid_Anagram.py" target = "_self">Valid Anagram</a></li>
     <li><a href = "https://github.com/VyTrg/Leetcode/blob/main/643_Maximum_Average_Subarray_1.py" target = "_self">Maximum Average Subarray 1</a></li>
+    <li><a href = "https://github.com/VyTrg/Leetcode/blob/main/1984_Minimum_Diff_High_Low_K.py" target = "_self">Minimum Difference Between Highest and Lowest of K Scores</a></li>
 </ol>
 </body>
 </html>

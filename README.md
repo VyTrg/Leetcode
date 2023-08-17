@@ -16,6 +16,7 @@
     <li><a href = "https://github.com/VyTrg/Leetcode/blob/main/1984_Minimum_Diff_High_Low_K.py" target = "_self">Minimum Difference Between Highest and Lowest of K Scores</a></li>
     <li><a href = "https://github.com/VyTrg/Leetcode/blob/main/1876_Substrings_Three.py" target = "_self">Substrings of Size Three with Distinct Characters</a></li>
     <li><a href = "https://github.com/VyTrg/Leetcode/blob/main/2269_KBeauty_Number.py" target = "_self">Find the K-Beauty of a Number</a></li>
+    <li><a href = "https://github.com/VyTrg/Leetcode/blob/main/219_Contains_Duplicate_2.py" target = "_self">Contains Duplicate 2</a></li>
 </ol>
 </body>
 </html>

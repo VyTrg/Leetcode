@@ -17,6 +17,7 @@
     <li><a href = "https://github.com/VyTrg/Leetcode/blob/main/1876_Substrings_Three.py" target = "_self">Substrings of Size Three with Distinct Characters</a></li>
     <li><a href = "https://github.com/VyTrg/Leetcode/blob/main/2269_KBeauty_Number.py" target = "_self">Find the K-Beauty of a Number</a></li>
     <li><a href = "https://github.com/VyTrg/Leetcode/blob/main/219_Contains_Duplicate_2.py" target = "_self">Contains Duplicate 2</a></li>
+    <li><a href = "https://github.com/VyTrg/Leetcode/blob/main/121_Best_Time_To_Buy.py" target = "_self">Best Time to Buy and Sell Stock</a></li>
 </ol>
 </body>
 </html>

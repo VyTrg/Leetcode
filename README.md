@@ -6,6 +6,7 @@
 	Table of content
 </head>
 <body>
+<h3>
 <ol>
 	<li><a href = "https://github.com/VyTrg/Leetcode/blob/main/1_Two_Sum.py" target = "_self">Two sum</a></li>
     <li><a href = "https://github.com/VyTrg/Leetcode/blob/main/9_Palindrome_Number.py" target = "_self">Palindrome number</a></li>
@@ -20,5 +21,6 @@
     <li><a href = "https://github.com/VyTrg/Leetcode/blob/main/121_Best_Time_To_Buy.py" target = "_self">Best Time to Buy and Sell Stock</a></li>
     <li><a href = "https://github.com/VyTrg/Leetcode/blob/main/3_Longest_Sub_Nonrepeat.py" target = "_self">Longest Substring Without Repeating Characters</a></li>
 </ol>
+</h3>
 </body>
 </html>
